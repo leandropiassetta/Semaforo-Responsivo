@@ -1,0 +1,56 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  margin-top: 5vh;
+  display: flex;
+  flex-direction: column;
+  gap: 5vh;
+  align-items: center;
+  justify-content: center;
+}
+.container h1 {
+  font-size: 2rem;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#bandeira {
+  display: block;
+  justify-content: space-around;
+  align-items: center;
+}
+
+#flag {
+  position: relative;
+  left: 45px;
+  top: 4vh;
+  width: 30vw;
+  display: block;
+  align-items: center;
+}
+
+#semaforo {
+  width: 50vw;
+  height: 50vh;
+}
+
+#btns {
+  display: flex;
+  gap: 0.2rem;
+}
+
+#btns button {
+  font-size: 0.79rem;
+  width: 19.1vw;
+  height: 5vh;
+  text-align: center;
+  border-radius: 0.8rem;
+  box-shadow: 0.2rem 0.9rem 1.5rem green;
+  background-color: black;
+  color: white;
+  border-color: white;
+  cursor: pointer;
+}
