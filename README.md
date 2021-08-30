@@ -1,2 +1,2 @@
 # Semaforo-Responsivo
-![Screenshot](file:///home/leandro/Documents/semaforo.png)
+![Screenshot](https://imgur.com/L5IaADX)
