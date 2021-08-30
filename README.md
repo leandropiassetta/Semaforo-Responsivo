@@ -1,2 +1,2 @@
 # Semaforo-Responsivo
-![Screenshot](https://imgur.com/L5IaADX)
+[Imgur](https://i.imgur.com/L5IaADX.png)
