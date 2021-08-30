@@ -1,3 +1,3 @@
-<h1 align="center">Semáforo Responsivo</h1>
+## Semáforo Responsivo
 
-<div align="center">![Screenshot](https://i.imgur.com/L5IaADX.png) </div>
+![Screenshot](https://i.imgur.com/L5IaADX.png)
