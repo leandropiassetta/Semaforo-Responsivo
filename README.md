@@ -1,2 +1,2 @@
 # Semaforo-Responsivo
-![Screenshot](semaforo.png)
+![Screenshot](file:///home/leandro/Documents/semaforo.png)
